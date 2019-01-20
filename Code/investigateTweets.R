@@ -1,1 +1,0 @@
-CWE119_tweets<-tweet_df[which(tweet_df$CWE=='CWE-99'),]
