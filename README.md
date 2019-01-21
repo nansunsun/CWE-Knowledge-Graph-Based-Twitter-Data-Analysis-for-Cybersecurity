@@ -14,4 +14,5 @@ Part of sample data used in this study is provided. f you are interested in our 
 |2016Tweets.xlsx|2016 Tweets dataset|Tweets including the keyword "CVE" published in 2016|
 |2017Tweets.xlsx|2017 Tweets dataset|Tweets including the keyword "CVE" published in 2017|
 |2018Tweets.xlsx|2018 Tweets dataset|Tweets including the keyword "CVE" published in 2018|
-|cve.zip|CVE information|Vulnearbility detailed information crawled from Common Vulnearbility Database|
+|cve.zip|CVE information|Vulnearbility detailed information crawled from [Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org/) |
+|CAPEC.csv|CAPEC information|Attack information crawled from [Common Attack Pattern Enumeration and Classification (CAPEC)](https://capec.mitre.org/)|
