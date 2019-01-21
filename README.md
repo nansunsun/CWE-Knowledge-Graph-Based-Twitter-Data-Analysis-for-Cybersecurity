@@ -5,7 +5,7 @@ This page contains the code and sample data used in the paper CWE Knowledge Grap
 
 
 #### Sample data
-Part of sample data used in this study is provided. f you are interested in our project, please contact *** for more information.
+Part of sample data used in this study is provided. f you are interested in our project, please contact *** (anonymous now) for more information.
 
 |File Name       | Dataset         |Introduction|
 | -------------------- |:----------------:|----------------:| 
